@@ -1,4 +1,4 @@
-https://tv.mobily.com.sa/reroute?url=https://5a5c-2001-16a2-fbc9-fc00-7926-c2a5-7c03-863a.ngrok-free.app/index.json?111
+tv.mobily.com.sa/reroute?url=https://5a5c-2001-16a2-fbc9-fc00-7926-c2a5-7c03-863a.ngrok-free.app/index.json?111
 tv.mobily.com.sa/ar/kids/series/ryans-world-specials/361538088107
 tv.mobily.com.sa/en/arabic/movies/sayed-el-atefy/406920232081
 tv.mobily.com.sa/ar/privacypolicy
